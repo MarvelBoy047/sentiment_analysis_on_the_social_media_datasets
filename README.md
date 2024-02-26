@@ -104,7 +104,7 @@ Test results show the potential of random forest distribution providing the high
 
 - **Hyperparameter Tuning:** Fine-tuning model hyperparameters can improve performance and achieve better results.
 - **Deep learning models:** Discover how deep learning models such as neural networks can increase the accuracy of emotional analysis.
-- **Real-Time Analysis:* * Using analysis of live data can provide real-time insights into changing views.
+- **Real-Time Analysis:** Using analysis of live data can provide real-time insights into changing views.
 
 This report explains the process of sentiment analysis of tIets, highlights the importance of understanding sentiment in data, and demonstrates the potential of machine learning sentiment for classifying negative sentiment.
 
